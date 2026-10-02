@@ -3,7 +3,7 @@
 [README](README.md) / [購入可能・発売予定](purchases.md) / [所持本](owned.md)
 
 更新日：2026-10-02  
-追跡中：11作品。所持巻の正本は[所持本リスト](owned.md)、未所持巻の一覧は[購入可能・発売予定リスト](purchases.md)。
+追跡中：16作品。所持巻の正本は[所持本リスト](owned.md)、未所持巻の一覧は[購入可能・発売予定リスト](purchases.md)。
 
 同名の小説、漫画の分冊版、特装版やグッズ付き商品を別の巻として数えない。本好きの第三部と第四部はそれぞれ独立した漫画シリーズとして管理する。
 
@@ -124,3 +124,62 @@
 - 発売情報確認：2026-10-02
 - [竹書房の15巻発売告知](https://prtimes.jp/main/html/rd/p/000000583.000109856.html)
 - [竹書房の15巻書誌情報](https://www.takeshobo.co.jp/book/b10168059.html)
+
+## ハナバス 苔石花江のバスケ論
+
+- 管理ID：hanabasu-manga
+- 対象：漫画単行本／講談社（KCデラックス）
+- 著者：三好宏平
+- 発売済み最新：7巻（2026-08-07発売、ISBN：9784065446201）
+- 次巻：8巻（2026-11-09発売予定、ISBN：9784065457085）
+- 発売情報確認：2026-10-02
+- [講談社の7巻書誌情報](https://www.kodansha.co.jp/comic/products/0000429888)
+- [講談社の8巻書誌情報](https://www.kodansha.co.jp/comic/products/0000433511#specs)
+- [講談社の既刊・関連作品一覧](https://www.kodansha.co.jp/titles/1000048289)
+
+## ダンジョンの中のひと
+
+- 管理ID：dungeon-no-naka-no-hito-manga
+- 対象：漫画単行本／双葉社（webアクションコミックス）
+- 著者：双見酔
+- 発売済み最新：7巻（2026-05-14発売、ISBN：9784575862096）
+- 次巻：8巻の発売日は**未確認**
+- 発売情報確認：2026-10-02
+- [双葉社の7巻書誌情報](https://www.futabasha.co.jp/book/97845758620960000000?type=1)
+- [webアクションの作品情報](https://comic-action.com/episode/13933686331665056851)
+
+## 出禁のモグラ
+
+- 管理ID：dekin-no-mogura-manga
+- 対象：漫画単行本／講談社（モーニングKC）
+- 著者：江口夏実
+- 発売済み最新：13巻（2026-07-22発売、ISBN：9784065441992）
+- 次巻：14巻の発売日は**未確認**
+- 発売情報確認：2026-10-02
+- [講談社の13巻書誌情報](https://www.kodansha.co.jp/comic/products/0000428741)
+- [講談社の既刊・関連作品一覧](https://www.kodansha.co.jp/titles/1000039725)
+- [モーニングの作品情報](https://morning.kodansha.co.jp/c/dekinnomogura)
+
+## 逃げ上手の若君
+
+- 管理ID：nigejozu-no-wakagimi-manga
+- 対象：漫画単行本／集英社（ジャンプコミックス）
+- 著者：松井優征
+- 発売済み最新：27巻・最終巻（紙・電子とも2026-10-02発売、ISBN：9784088852058）
+- 次巻：なし（全27巻完結）
+- 発売情報確認：2026-10-02
+- [集英社の27巻書誌情報](https://www.shueisha.co.jp/books/items/contents.html?isbn=978-4-08-885205-8)
+- [少年ジャンプの全巻一覧](https://sp.shonenjump.com/j/rensai/_list/nigejozu/)
+
+## アルスラーン戦記（漫画版）
+
+- 管理ID：arslan-arakawa-manga
+- 対象：漫画単行本／講談社（講談社コミックス）
+- 漫画：荒川弘／原作：田中芳樹
+- 発売済み最新：24巻（2026-03-09発売、通常版ISBN：9784065429631）
+- 次巻：25巻（2026-10-08発売予定）
+- 発売情報確認：2026-10-02
+- [講談社の24巻書誌情報](https://www.kodansha.co.jp/comic/products/0000425073)
+- [講談社の作品・最新刊情報](https://www.kodansha.co.jp/titles/1000006649)
+- [講談社の2026年10月発売予定](https://www.kodansha.co.jp/comic/calendar/202610)
+- 田中芳樹の原作小説や別の漫画化作品とは分けて管理
