@@ -3,7 +3,7 @@
 [README](README.md) / [購入可能・発売予定](purchases.md) / [所持本](owned.md)
 
 更新日：2026-10-05  
-追跡中：24作品。所持巻の正本は[所持本リスト](owned.md)、未所持巻の一覧は[購入可能・発売予定リスト](purchases.md)。
+追跡中：32作品。所持巻の正本は[所持本リスト](owned.md)、未所持巻の一覧は[購入可能・発売予定リスト](purchases.md)。
 
 同名の小説、漫画の分冊版、特装版やグッズ付き商品を別の巻として数えない。本好きの第三部と第四部はそれぞれ独立した漫画シリーズとして管理する。
 
@@ -277,3 +277,96 @@
 - 発売情報確認：2026-10-05
 - [小学館の32巻書誌情報](https://shogakukan-comic.jp/book?isbn=9784098545834)
 - [小学館の33巻書誌情報](https://shogakukan-comic.jp/book?isbn=9784098548583)
+
+## 聖☆おにいさん
+
+- 管理ID：saint-oniisan-manga
+- 対象：漫画単行本／講談社（モーニングKC）
+- 著者：中村光
+- 発売済み最新：22巻（2025-07-23発売、通常版ISBN：9784065400340）
+- 次巻：23巻（2026-11-20発売予定）
+- 発売情報確認：2026-10-05
+- [講談社の22巻書誌情報](https://www.kodansha.co.jp/comic/products/0000415529)
+- [講談社の作品・最新刊情報](https://www.kodansha.co.jp/titles/1000003315)
+- [講談社の2026年11月発売予定](https://www.kodansha.co.jp/comic/calendar/202611)
+
+## 幼稚園WARS
+
+- 管理ID：yochien-wars-manga
+- 対象：漫画単行本／集英社（ジャンプコミックス）
+- 著者：千葉侑生
+- 発売済み最新：18巻（紙・電子とも2026-08-04発売、ISBN：9784088851662）
+- 次巻：19巻の発売日は**未確認**
+- 発売情報確認：2026-10-05
+- [集英社の18巻書誌情報](https://www.shueisha.co.jp/books/items/contents.html?isbn=978-4-08-885166-2)
+- [集英社の全巻一覧](https://www.shueisha.co.jp/books/search/search.html?order=1&seriesid=98164)
+- 別作品『幼稚園WARS LUKE』は本編の19巻として扱わない
+
+## 魔力枯れのダークエルフ
+
+- 管理ID：maryokugare-dark-elf-manga
+- 対象：漫画単行本／講談社（ヤンマガKCスペシャル）
+- 著者：板橋大祐
+- 発売済み最新：2巻（2026-09-17発売）
+- 次巻：3巻の発売日は**未確認**
+- 発売情報確認：2026-10-05
+- [講談社の作品・最新刊情報](https://www.kodansha.co.jp/titles/1000049001)
+- [講談社の2巻発売告知](https://note.com/kodansha_senden/n/n3baa95aea8ad)
+
+## ブレイド＆バスタード（漫画版）
+
+- 管理ID：blade-bastard-manga
+- 対象：漫画単行本／ドリコム（DREコミックス）
+- 漫画：楓月誠／原作：蝸牛くも／キャラクター原案：so-bin
+- 発売済み最新：8巻（2026-03-10発売、ISBN：9784434373817）
+- 次巻：9巻（2026-10-20発売予定、ISBN：9784434386985）
+- 発売情報確認：2026-10-05
+- [DREコミックスの8巻書誌情報](https://drecom-media.jp/drecomics/product/178)
+- [DREコミックスの9巻書誌情報](https://drecom-media.jp/drecomics/product/220)
+- 蝸牛くもの原作小説（DREノベルス）や漫画の分冊版とは分けて管理
+
+## ワンダンス
+
+- 管理ID：wandance-manga
+- 対象：漫画単行本／講談社（アフタヌーンKC）
+- 著者：珈琲
+- 発売済み最新：15巻（2025-12-23発売、ISBN：9784065417607）
+- 次巻：16巻（2026-11-20発売予定）
+- 発売情報確認：2026-10-05
+- [講談社の15巻書誌情報](https://www.kodansha.co.jp/comic/products/0000421450)
+- [講談社の作品・最新刊情報](https://www.kodansha.co.jp/titles/1000034584)
+- [講談社の2026年11月発売予定](https://www.kodansha.co.jp/comic/calendar/202611)
+
+## 3月のライオン
+
+- 管理ID：march-comes-in-like-lion-manga
+- 対象：漫画単行本／白泉社（ヤングアニマルコミックス）
+- 著者：羽海野チカ
+- 発売済み最新：18巻（2025-09-29発売、通常版ISBN：9784592160281）
+- 次巻：19巻の発売日は**未確認**
+- 発売情報確認：2026-10-05
+- [白泉社の18巻書誌情報](https://www.hakusensha.co.jp/comicslist/75916/)
+- [作品公式サイト](https://3lion.younganimal.com/)
+
+## ありす、宇宙までも
+
+- 管理ID：alice-uchu-mademo-manga
+- 対象：漫画単行本／小学館（ビッグコミックス）
+- 著者：売野機子
+- 発売済み最新：7巻（2026-06-30発売、ISBN：9784098640294）
+- 次巻：8巻の発売日は**未確認**
+- 発売情報確認：2026-10-05
+- [小学館の5巻書誌情報](https://shogakukan-comic.jp/book?isbn=9784098636181)
+- [小学館の6巻書誌情報](https://shogakukan-comic.jp/book?isbn=9784098637782)
+- [小学館の7巻書誌情報](https://shogakukan-comic.jp/book?isbn=9784098640294)
+- [小学館の既刊一覧](https://shogakukan-comic.jp/book-series?cd=53177)
+
+## 最後のエルフ
+
+- 管理ID：last-elf-manga
+- 対象：漫画単行本／オーバーラップ（ガルドコミックス）
+- 著者：サワノアキラ
+- 発売済み最新：3巻（2025-12-25発売、ISBN：9784824014627）
+- 次巻：4巻の発売日は**未確認**
+- 発売情報確認：2026-10-05
+- [オーバーラップの3巻書誌情報・シリーズ一覧](https://over-lap.co.jp/%E6%9C%80%E5%BE%8C%E3%81%AE%E3%82%A8%E3%83%AB%E3%83%95%2B3/product/0/9784824014627/?cat=CGB&swrd=)
