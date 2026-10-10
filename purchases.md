@@ -2,30 +2,19 @@
 
 [README](README.md) / [所持本](owned.md) / [追跡対象](tracked.md)
 
-更新日：2026-10-08  
+更新日：2026-10-10  
 所持巻との差分を掲載。購入可能は発売済み・未所持を示し、店舗在庫は未確認。発売予定日は変更される場合あり。
 
 ## 購入可能（発売済み・未所持）
 
-- **アルスラーン戦記 25巻（漫画版）**：2026-10-08発売  
-  [別冊少年マガジンの当月刊行一覧](https://shonenmagazine.com/comics/bmaga/this_month/) / [電撃オンラインの当日発売記事](https://dengekionline.com/article/202610/90068)（確認：2026-10-08）
-
-- **凶乱令嬢ニア・リストン（漫画版）9巻**：2026-10-07発売  
-  ISBN：9784301007944  
-  [スクウェア・エニックスの書誌情報](https://magazine.jp.square-enix.com/top/comics/detail/9784301007944/) / [作品公式サイトの発売中表記](https://kyoranreijo-pr.com/)（確認：2026-10-08）
-
-- **逃げ上手の若君 27巻（最終巻）**：2026-10-02発売  
-  ISBN：9784088852058  
-  [集英社の書誌情報](https://www.shueisha.co.jp/books/items/contents.html?isbn=978-4-08-885205-8)（確認：2026-10-08）
-
 - **ありす、宇宙までも 5巻**：2025-10-30発売  
-  ISBN：9784098636181  
+  ISBN：[9784098636181](https://www.shoten.co.jp/rel/searchbook/stock.asp?isbn=9784098636181)  
   [小学館の書誌情報](https://shogakukan-comic.jp/book?isbn=9784098636181)（確認：2026-10-08）
 - **ありす、宇宙までも 6巻**：2026-02-27発売  
-  ISBN：9784098637782  
+  ISBN：[9784098637782](https://www.shoten.co.jp/rel/searchbook/stock.asp?isbn=9784098637782)  
   [小学館の書誌情報](https://shogakukan-comic.jp/book?isbn=9784098637782)（確認：2026-10-08）
 - **ありす、宇宙までも 7巻**：2026-06-30発売  
-  ISBN：9784098640294  
+  ISBN：[9784098640294](https://www.shoten.co.jp/rel/searchbook/stock.asp?isbn=9784098640294)  
   [小学館の書誌情報](https://shogakukan-comic.jp/book?isbn=9784098640294)（確認：2026-10-08）
 
 ## 発売予定
