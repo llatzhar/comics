@@ -2,7 +2,7 @@
 
 [README](README.md) / [所持本](owned.md) / [追跡対象](tracked.md)
 
-更新日：2026-10-29  
+更新日：2026-11-03  
 発売済み・未所持巻と発売予定日が確認できた巻を掲載。次巻の発売日が未確認の作品は[追跡対象リスト](tracked.md)で確認。購入可能は発売済み・未所持を示し、店舗在庫は未確認。発売予定日は変更される場合あり。
 
 ## 購入可能（発売済み・未所持）
@@ -13,10 +13,6 @@
 - **ありす、宇宙までも 7巻**：2026-06-30発売  
   ISBN：[9784098640294](https://www.shoten.co.jp/rel/searchbook/stock.asp?isbn=9784098640294)  
   [小学館の書誌情報](https://shogakukan-comic.jp/book?isbn=9784098640294)（確認：2026-10-29）
-
-- **ブレイド＆バスタード（漫画版）9巻**：2026-10-20発売  
-  ISBN：[9784434386985](https://www.shoten.co.jp/rel/searchbook/stock.asp?isbn=9784434386985)  
-  [DREコミックスの書誌情報](https://drecom-media.jp/drecomics/product/220) / [発売後の記事](https://dengekionline.com/article/202610/90811)で発売実績を照合（公式書誌再確認：2026-10-29）
 
 ## 発売予定
 
