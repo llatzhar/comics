@@ -2,7 +2,7 @@
 
 [README](README.md) / [所持本](owned.md) / [追跡対象](tracked.md)
 
-更新日：2026-11-06  
+更新日：2026-11-12  
 発売済み・未所持巻と発売予定日が確認できた巻を掲載。次巻の発売日が未確認の作品は[追跡対象リスト](tracked.md)で確認。購入可能は発売済み・未所持を示し、店舗在庫は原則未確認。発売予定日は変更される場合あり。
 
 ## 購入可能（発売済み・未所持）
@@ -14,14 +14,15 @@
   ISBN：[9784098640294](https://www.shoten.co.jp/rel/searchbook/stock.asp?isbn=9784098640294)  
   [小学館の書誌情報](https://shogakukan-comic.jp/book?isbn=9784098640294)（確認：2026-11-05）
 
+- **聖女に嘘は通じない（漫画版）7巻**：2026-11-06発売  
+  ISBN：[9784065452479](https://www.shoten.co.jp/rel/searchbook/stock.asp?isbn=9784065452479)  
+  [月マガ公式作品ページ](https://gmaga.co/c/seijoniusoha/)の11/6付「本日発売開始」と、[紀伊國屋紙版書誌](https://www.kinokuniya.co.jp/f/dsg-01-9784065452479)の販売・ISBNを確認（確認：2026-11-12）
+- **ハナバス 苔石花江のバスケ論 8巻**：2026-11-09発売  
+  ISBN：[9784065457085](https://www.shoten.co.jp/rel/searchbook/stock.asp?isbn=9784065457085)  
+  [少年マガジン公式告知](https://shonenmagazine.com/info/entry/hanabasu_8/)の発売日と、[楽天紙版](https://books.rakuten.co.jp/rb/18831176/)の取り寄せ販売・[ヨドバシ電子版](https://www.yodobashi.com/product/100000086603493108/)の配信中を照合（確認：2026-11-12）
+
 ## 発売予定
 
-- **2026-11-06**：聖女に嘘は通じない（漫画版）7巻  
-  ISBN：[9784065452479](https://www.shoten.co.jp/rel/searchbook/stock.asp?isbn=9784065452479)  
-  [講談社の書誌情報](https://www.kodansha.co.jp/comic/products/0000431781)（前回確認：2026-10-15、検索索引再照合：2026-11-05。公式書誌本文の直接取得は不可）
-- **2026-11-09**：ハナバス 苔石花江のバスケ論 8巻  
-  ISBN：[9784065457085](https://www.shoten.co.jp/rel/searchbook/stock.asp?isbn=9784065457085)  
-  [講談社の書誌情報](https://www.kodansha.co.jp/comic/products/0000433511#specs) / [少年マガジンの10/26付公式告知](https://shonenmagazine.com/info/entry/hanabasu_8/)本文で発売予定日を再確認（確認：2026-11-05。商品本文は取得不可、ISBNは既存確認値）
 - **2026-11-20**：織田ちゃんと明智くん 9巻  
   ISBN：[9784065455456](https://www.shoten.co.jp/rel/searchbook/stock.asp?isbn=9784065455456)（公式ISBN未確認）  
   [講談社の作品情報](https://www.kodansha.co.jp/titles/1000047323)の検索索引で日付、[丸善書誌](https://www.maruzenjunkudo.co.jp/products/9784065455456)本文で発売予定日・ISBNを照合（書店本文確認：2026-11-05。公式本文は取得不可）
@@ -40,6 +41,9 @@
 - **2026-12-04**：ルリドラゴン 6巻  
   ISBN：[9784088850955](https://www.shoten.co.jp/rel/searchbook/stock.asp?isbn=9784088850955)  
   [少年ジャンプのコミックス一覧](https://sp.shonenjump.com/j/rensai/_list/ruri/)本文で12/4予定と紙版購入リンクのISBNを確認。[丸善書誌](https://www.maruzenjunkudo.co.jp/products/9784088850955)本文でも日付・ISBNを照合（確認：2026-11-05。集英社商品本文は取得不可）
+- **2026-12-04**：ゆーあーすらっがー 2巻  
+  ISBN：[9784065461396](https://www.shoten.co.jp/rel/searchbook/stock.asp?isbn=9784065461396)  
+  [丸善予約書誌](https://www.maruzenjunkudo.co.jp/products/9784065461396)本文で著者・漫画2巻・発売予定日・ISBNを確認。出版社公式未確認（確認：2026-11-12）
 - **2026-12-07**：不死王の息子（漫画版）2巻  
   ISBN：[9784049723809](https://www.shoten.co.jp/rel/searchbook/stock.asp?isbn=9784049723809)  
   [KADOKAWAの2巻紙版書誌](https://www.kadokawa.co.jp/product/322609000490/)本文で漫画・発売予定日・ISBNを確認（確認：2026-11-05）
@@ -64,6 +68,8 @@
   ISBN：**未確認**  
   [新潮社の発売告知](https://prtimes.jp/main/html/rd/p/000003365.000047877.html)本文でタダノなつ著の漫画単行本・発売予定日を確認。予約開始予定は2026-11-24（確認：2026-11-06）
 
-2026-11-05に当時の全33追跡作品を再調査。出版社本文を優先し、書店書誌本文のみで確認できた予定は出版社公式未確認と明記。取得できない情報の前回確認日と今回の照合・制約は[追跡対象リスト](tracked.md)に保持。未確認の次巻情報は同リストで管理する。
+2026-11-12に全35追跡作品を再調査。出版社本文を優先し、書店書誌本文のみで確認できた予定は出版社公式未確認と明記。取得できない情報の前回確認日と今回の照合・制約は[追跡対象リスト](tracked.md)に保持。未確認の次巻情報は同リストで管理する。
 
 在庫リンク確認：2026-11-05（更新前17件）。17件中12件は対象の書誌ページを確認。不死王の息子2巻、本好き第四部13巻、ミハルの戦場5巻、尾守つみき12巻、リビルドワールド17巻は検索画面へ転送された。各ISBNは上記の出版社・書店書誌で照合済みで、指定のリンク形式を維持している。店舗別在庫の有無は未確認。
+
+2026-11-12：追加・移動後の全ISBNについて表示文字列と在庫検索URLのISBN一致を検証。新規追加のゆーあーすらっがー2巻の在庫検索ページは取得できず、リンク先表示・店舗在庫は未確認（ISBNは丸善書誌本文で確認）。
