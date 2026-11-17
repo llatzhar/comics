@@ -2,7 +2,7 @@
 
 [README](README.md) / [所持本](owned.md) / [追跡対象](tracked.md)
 
-更新日：2026-11-12  
+更新日：2026-11-17  
 発売済み・未所持巻と発売予定日が確認できた巻を掲載。次巻の発売日が未確認の作品は[追跡対象リスト](tracked.md)で確認。購入可能は発売済み・未所持を示し、店舗在庫は原則未確認。発売予定日は変更される場合あり。
 
 ## 購入可能（発売済み・未所持）
@@ -13,13 +13,6 @@
 - **ありす、宇宙までも 7巻**：2026-06-30発売  
   ISBN：[9784098640294](https://www.shoten.co.jp/rel/searchbook/stock.asp?isbn=9784098640294)  
   [小学館の書誌情報](https://shogakukan-comic.jp/book?isbn=9784098640294)（確認：2026-11-05）
-
-- **聖女に嘘は通じない（漫画版）7巻**：2026-11-06発売  
-  ISBN：[9784065452479](https://www.shoten.co.jp/rel/searchbook/stock.asp?isbn=9784065452479)  
-  [月マガ公式作品ページ](https://gmaga.co/c/seijoniusoha/)の11/6付「本日発売開始」と、[紀伊國屋紙版書誌](https://www.kinokuniya.co.jp/f/dsg-01-9784065452479)の販売・ISBNを確認（確認：2026-11-12）
-- **ハナバス 苔石花江のバスケ論 8巻**：2026-11-09発売  
-  ISBN：[9784065457085](https://www.shoten.co.jp/rel/searchbook/stock.asp?isbn=9784065457085)  
-  [少年マガジン公式告知](https://shonenmagazine.com/info/entry/hanabasu_8/)の発売日と、[楽天紙版](https://books.rakuten.co.jp/rb/18831176/)の取り寄せ販売・[ヨドバシ電子版](https://www.yodobashi.com/product/100000086603493108/)の配信中を照合（確認：2026-11-12）
 
 ## 発売予定
 
