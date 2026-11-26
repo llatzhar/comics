@@ -13,15 +13,6 @@
 - **ありす、宇宙までも 7巻**：2026-06-30発売  
   ISBN：[9784098640294](https://www.shoten.co.jp/rel/searchbook/stock.asp?isbn=9784098640294)  
   [小学館の書誌情報](https://shogakukan-comic.jp/book?isbn=9784098640294)（確認：2026-11-05）
-- **織田ちゃんと明智くん 9巻**：2026-11-20発売  
-  ISBN：[9784065455456](https://www.shoten.co.jp/rel/searchbook/stock.asp?isbn=9784065455456)  
-  [モーニングの9巻書誌](https://morning.kodansha.co.jp/comics/431582/0000432957.html)・[楽天ブックスの紙版書誌](https://books.rakuten.co.jp/rb/18847374/)（確認：2026-11-26）
-- **聖☆おにいさん 23巻（通常版）**：2026-11-20発売  
-  ISBN：[9784065459331](https://www.shoten.co.jp/rel/searchbook/stock.asp?isbn=9784065459331)  
-  [モーニングの発売開始告知](https://morning.kodansha.co.jp/news/4267.html)・[楽天ブックスの通常版書誌](https://books.rakuten.co.jp/rb/18847435/)（確認：2026-11-26）
-- **ワンダンス 16巻**：2026-11-20発売  
-  ISBN：[9784065456842](https://www.shoten.co.jp/rel/searchbook/stock.asp?isbn=9784065456842)  
-  [アフタヌーンの発売開始告知](https://afternoon.kodansha.co.jp/news/6047.html)・[講談社発表の書誌](https://prtimes.jp/main/html/rd/p/000009006.000001719.html)（確認：2026-11-26）
 
 ## 発売予定
 
